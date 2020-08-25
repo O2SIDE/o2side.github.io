@@ -78,13 +78,23 @@ body {
   background-size: cover;
 }
 
+.space {
+  background-image: url("../img/space.jpg");
+  object-fit: cover;
+}
+
 .city {
   background-image: url("../img/city.jpg");
   object-fit: cover;
 }
 
-.space {
-  background-image: url("../img/space.jpg");
+.tree {
+  background-image: url("../img/tree.jpg");
+  object-fit: cover;
+}
+
+.brussles {
+  background-image: url("../img/brussles.jpg");
   object-fit: cover;
 }
 

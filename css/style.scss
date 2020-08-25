@@ -73,12 +73,20 @@ body {
 }
 
 // include parallax banners
+.space {
+    @include parallax("../img/space.jpg")
+}
+
 .city {
     @include parallax("../img/city.jpg")
 }
 
-.space {
-    @include parallax("../img/space.jpg")
+.tree {
+    @include parallax("../img/tree.jpg")
+}
+
+.brussles {
+    @include parallax("../img/brussles.jpg")
 }
 
 .description {
