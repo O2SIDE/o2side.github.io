@@ -68,6 +68,9 @@ body {
 .hero a:visited {
   color: #0074D9;
 }
+.hero p {
+  font-weight: normal;
+}
 
 .parallax {
   max-width: 100%;

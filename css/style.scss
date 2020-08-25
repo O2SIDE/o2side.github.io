@@ -55,6 +55,9 @@ body {
         &:hover { text-decoration: underline; }
         &:visited { color: $blue; }
     }
+    p {
+        font-weight: normal;
+    }
 
     text-align: center;
     padding: 80px;
